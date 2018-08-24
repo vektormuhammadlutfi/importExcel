@@ -18,6 +18,7 @@ Informasi Umum
 2. Ajax
 3. nama db = db_import_excel
 4. sampleexcel.xlsx
+5. Libraries PHPExcel
 
 *******************
 Release Information
