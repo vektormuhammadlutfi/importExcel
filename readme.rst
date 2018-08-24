@@ -11,6 +11,15 @@ you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
 *******************
+Informasi Umum
+*******************
+
+1. codeigniter
+2. Ajax
+3. nama db = db_import_excel
+4. sampleexcel.xlsx
+
+*******************
 Release Information
 *******************
 
